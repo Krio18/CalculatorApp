@@ -248,10 +248,5 @@ namespace Calculator.App
             }
             return total;
         }
-
-        private void Debug(object sender, EventArgs e)
-        {
-
-        }
     }
 }
